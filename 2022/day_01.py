@@ -1,4 +1,4 @@
-with open('file_01.txt') as file:
+with open('day_01.txt') as file:
     file.seek(0)
     elf_calories = file.read()
 
